@@ -41,5 +41,5 @@ A project by the Signaling Systems Unit, Laboratory of Systems Biology, National
 
 ## Public Domain License
 
-As a work of the United States Government, this work is in public domain within the United States.  
+As a work of the United States Government, this work is in the public domain within the United States.  
 More information on U.S. Government Works can be found on [USA.gov](https://www.usa.gov/government-works)  
