@@ -13,17 +13,17 @@ iTLR installation is illustrated in the Wiki.
 
 ## Credit
 
-#### Direction
-Principal Investigator: Dr. Iain Fraser  
-Leader of Project: Dr. Bhaskar Dutta  
+### Direction
+Principal Investigator: **Dr. Iain Fraser**  
+Leader of Project: **Dr. Bhaskar Dutta**  
 
-#### Maintainers
-Louis-Henri Merino, Alaleh Azhir, Dr. Jian Song 
+### Maintainers
+*Louis-Henri Merino, Alaleh Azhir, Dr. Jian Song* 
 
-#### Unit
+### Unit
 A project by the Signaling Systems Unit, Laboratory of Systems Biology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, U.S. Department of Health and Human Services
 
-#### Third Party Open Source Software
+### Third Party Open Source Software
 
 [d3.js](https://d3js.org/)  
 [Monolog](https://github.com/Seldaek/monolog)  
