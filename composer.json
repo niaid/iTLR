@@ -1,0 +1,17 @@
+{
+  "name": "NIAID/iTLR",
+  "description": "An interactive Toll Like Receptor Website",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "iTLR\\": "app/"
+    }
+  },
+  "require": {
+    "monolog/monolog": "^1.20",
+    "wazaari/monolog-mysql": ">1.0.0",
+    "vlucas/phpdotenv": "2.3.x-dev",
+    "box/spout": "^2.7"
+  }
+}
