@@ -2,7 +2,7 @@
   "name": "NIAID/iTLR",
   "description": "An interactive Toll Like Receptor Website",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "Public Domain",
   "autoload": {
     "psr-4": {
       "iTLR\\": "app/"
