@@ -14,6 +14,14 @@ session_name('NIH');
 /* Start the application session */
 session_start();
 
+$path = dirname(__DIR__);
+
+/* Create an empty .env file if it does not exist */
+if(!file_exists($path.'/.env'))
+{
+    file_put_contents($path.'/.env', '');
+}
+
 /* Load the environment variables from .env */
 $dotEnv = new Dotenv\Dotenv(dirname(__DIR__));
 $dotEnv->load();

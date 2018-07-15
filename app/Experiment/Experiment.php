@@ -20,7 +20,7 @@ class Experiment
     public static $platform = 'Platform';
     public static $value    = 'Value';
 
-    public function __construct(int $id = -1, array $array = null)
+    public function __construct($id = -1, array $array = null)
     {
         if($id >= 0) {
             $this->populateById($id);
